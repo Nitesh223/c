@@ -1,10 +1,7 @@
 #include <stdio.h>
-int main()
-{
-    // char str1[] = "Nitesh";
-    // char str2[] = "Kumar";
-    char str[10];
-    printf("Enter your Name : ");
-    scanf("%s" , &str)
+#include <math.h>
+#include <string.h>
+int main(){
+   
     return 0;
 }
