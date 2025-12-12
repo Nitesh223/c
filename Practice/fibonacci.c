@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+
+int main() {
+   int age = 22;
+   int *ptr = &age;
+   printf(age);
+   printf(&age);
+   printf(ptr);
+   printf(&ptr);
+    
+    return 0;
+}
